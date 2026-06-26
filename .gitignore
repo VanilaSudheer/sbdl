@@ -2,4 +2,12 @@
 /workspace.xml
 .idea/*
 lib/__pycache__/*
-
+__pycache__/
+.pytest_cache/
+*.log
+app-logs/
+.env
+secrets.env
+conf/secrets.env
+*.key
+*.pem
